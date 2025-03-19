@@ -2,7 +2,7 @@ name: flutter_stater
 description: "A lightweight and well-structured Flutter starter template with Clean Architecture, localization support, and essential configurations to kickstart new Flutter projects efficiently."
 publish_to: 'none'
 
-version: 1.0.0+1
+version: 1.0.1+1
 
 environment:
   sdk: ^3.7.0
